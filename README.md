@@ -1,5 +1,8 @@
 Visit project: https://airbnb-clone-4if5bm1oc-choxy5.vercel.app/
 
+![airbnb](https://user-images.githubusercontent.com/72465847/152358711-1dbd976b-346b-42d9-a639-6b4e7b0ed927.png)
+
+
 
 # Next.js + Tailwind CSS Example
 
